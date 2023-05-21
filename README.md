@@ -1,6 +1,6 @@
 # Hi there! Welcome to my GitHub Profile! 👋
 
-I'm thrilled to have you here. Allow me to introduce myself and share a bit about my journey as a full stack developer. My name is [Your Name], and I'm passionate about crafting robust web applications with a primary focus on React and Angular.
+I'm thrilled to have you here. Allow me to introduce myself and share a bit about my journey as a full stack developer. My name is Pratham Dangol, and I'm passionate about crafting robust web applications with a primary focus on React and Angular.
 
 ## About Me
 I have a strong foundation in full stack development, covering both frontend and backend technologies. My skills encompass various programming languages, frameworks, and tools that enable me to build scalable and efficient solutions. My journey in the world of development began during my time as an intern at Solar Secure, where I had the opportunity to contribute as a full stack developer.
